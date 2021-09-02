@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JXLeonSup/JXLeonSup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer at [Huawei](https://www.huawei.com) in Xi'an, Western China 🌆
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the [bloc library](https://bloclibrary.dev)
+- ☕ I’m learning how to make latte art
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have a pet bunny named Coco 🐰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=JXLeonSup&count_private=true&theme=default&show_icons=true)](https://github.com/JXLeonSup)
